@@ -11,192 +11,192 @@
             "versions": [
                 {
                     "version": "18.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-18.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-18.1.json",
                     "modified": "2025-11-13T14:00:00.188Z"
                 },
                 {
                     "version": "18.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-18.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-18.0.json",
                     "modified": "2025-10-28T14:00:00.188Z"
                 },
                 {
                     "version": "17.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-17.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-17.1.json",
                     "modified": "2025-05-06T14:00:00.188Z"
                 },
                 {
                     "version": "17.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-17.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-17.0.json",
                     "modified": "2025-04-22T14:00:00.188Z"
                 },
                 {
                     "version": "16.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-16.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-16.1.json",
                     "modified": "2024-11-12T14:00:00.188Z"
                 },
                 {
                     "version": "16.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-16.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-16.0.json",
                     "modified": "2024-10-31T14:00:00.188Z"
                 },
                 {
                     "version": "15.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-15.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-15.1.json",
                     "modified": "2024-05-02T14:00:00.188Z"
                 },
                 {
                     "version": "15.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-15.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-15.0.json",
                     "modified": "2024-04-23T14:00:00.188Z"
                 },
                 {
                     "version": "14.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-14.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-14.1.json",
                     "modified": "2023-11-14T14:00:00.188Z"
                 },
                 {
                     "version": "14.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-14.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-14.0.json",
                     "modified": "2023-10-31T14:00:00.188Z"
                 },
                 {
                     "version": "13.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-13.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-13.1.json",
                     "modified": "2023-05-09T14:00:00.188Z"
                 },
                 {
                     "version": "13.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-13.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-13.0.json",
                     "modified": "2023-04-25T14:00:00.188Z"
                 },
                 {
                     "version": "12.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-12.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-12.1.json",
                     "modified": "2022-11-08T14:00:00.188Z"
                 },
                 {
                     "version": "12.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-12.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-12.0.json",
                     "modified": "2022-10-25T14:00:00.188Z"
                 },
                 {
                     "version": "11.3",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-11.3.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-11.3.json",
                     "modified": "2022-07-07T14:00:00.188Z"
                 },
                 {
                     "version": "11.2",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-11.2.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-11.2.json",
                     "modified": "2022-05-24T14:00:00.188Z"
                 },
                 {
                     "version": "11.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-11.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-11.1.json",
                     "modified": "2022-05-11T14:00:00.188Z"
                 },
                 {
                     "version": "11.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-11.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-11.0.json",
                     "modified": "2022-04-25T10:00:00.188Z"
                 },
                 {
                     "version": "10.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-10.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-10.1.json",
                     "modified": "2021-11-10T14:00:00.188Z"
                 },
                 {
                     "version": "10.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-10.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-10.0.json",
                     "modified": "2021-10-21T14:00:00.188Z"
                 },
                 {
                     "version": "9.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-9.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-9.0.json",
                     "modified": "2021-04-29T14:49:39.188Z"
                 },
                 {
                     "version": "8.2",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-8.2.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-8.2.json",
                     "modified": "2021-01-27T14:49:39.188Z"
                 },
                 {
                     "version": "8.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-8.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-8.1.json",
                     "modified": "2020-11-12T14:49:39.188Z"
                 },
                 {
                     "version": "8.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-8.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-8.0.json",
                     "modified": "2020-10-27T14:49:39.188Z"
                 },
                 {
                     "version": "7.2",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-7.2.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-7.2.json",
                     "modified": "2020-07-15T14:49:39.188Z"
                 },
                 {
                     "version": "7.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-7.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-7.1.json",
                     "modified": "2020-07-13T14:49:39.188Z"
                 },
                 {
                     "version": "7.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-7.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-7.0.json",
                     "modified": "2020-03-31T14:49:39.188Z"
                 },
                 {
                     "version": "6.3",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-6.3.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-6.3.json",
                     "modified": "2020-03-09T14:49:39.188Z"
                 },
                 {
                     "version": "6.2",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-6.2.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-6.2.json",
                     "modified": "2019-12-02T14:49:39.188Z"
                 },
                 {
                     "version": "6.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-6.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-6.1.json",
                     "modified": "2019-11-21T14:49:39.188Z"
                 },
                 {
                     "version": "6.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-6.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-6.0.json",
                     "modified": "2019-10-23T14:19:37.289Z"
                 },
                 {
                     "version": "5.2",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-5.2.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-5.2.json",
                     "modified": "2019-07-27T00:09:37.061Z"
                 },
                 {
                     "version": "5.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-5.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-5.1.json",
                     "modified": "2019-07-27T00:09:36.949Z"
                 },
                 {
                     "version": "5.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-5.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-5.0.json",
                     "modified": "2019-07-19T17:44:53.176Z"
                 },
                 {
                     "version": "4.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-4.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-4.0.json",
                     "modified": "2019-04-30T13:45:13.024Z"
                 },
                 {
                     "version": "3.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-3.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-3.0.json",
                     "modified": "2018-10-23T00:14:20.652Z"
                 },
                 {
                     "version": "2.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-2.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-2.0.json",
                     "modified": "2018-04-18T17:59:24.739Z"
                 },
                 {
                     "version": "1.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-1.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-1.0.json",
                     "modified": "2018-01-17T12:56:55.080Z"
                 }
             ],
