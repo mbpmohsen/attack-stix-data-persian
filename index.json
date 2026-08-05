@@ -3,7 +3,7 @@
     "name": "MITRE ATT&CK",
     "description": "MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.",
     "created": "2018-01-17T12:56:55.080Z",
-    "modified": "2026-08-05T14:32:46.561Z",
+    "modified": "2026-08-05T21:34:50.442Z",
     "collections": [
         {
             "id": "x-mitre-collection--1f5f1533-f617-4ca8-9ab4-6a02367fa019",
@@ -12,7 +12,7 @@
                 {
                     "version": "19.2",
                     "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-19.2.json",
-                    "modified": "2026-08-05T14:26:46.746Z"
+                    "modified": "2026-08-05T21:33:58.496Z"
                 },
                 {
                     "version": "19.1",
@@ -225,7 +225,7 @@
                 {
                     "version": "19.2",
                     "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-19.2.json",
-                    "modified": "2026-08-05T14:32:46.561Z"
+                    "modified": "2026-08-05T21:34:50.442Z"
                 },
                 {
                     "version": "19.1",
@@ -438,7 +438,7 @@
                 {
                     "version": "19.2",
                     "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-19.2.json",
-                    "modified": "2026-08-05T14:32:32.734Z"
+                    "modified": "2026-08-05T21:34:28.409Z"
                 },
                 {
                     "version": "19.1",

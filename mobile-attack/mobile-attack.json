@@ -1,6 +1,6 @@
 {
     "type": "bundle",
-    "id": "bundle--1ada37ff-0c03-489e-9bda-bd6402e9c970",
+    "id": "bundle--e0f6d638-f152-43f2-b2bd-a2dafbc9d721",
     "objects": [
         {
             "type": "x-mitre-collection",
@@ -11,7 +11,7 @@
             "description": "ATT&CK for Mobile is a matrix of adversary behavior against mobile devices (smartphones and tablets running the Android or iOS/iPadOS operating systems). ATT&CK for Mobile builds upon NIST's Mobile Threat Catalogue and also contains a separate matrix of network-based effects, which are techniques that an adversary can employ without access to the mobile device itself.",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "created": "2018-01-17T12:56:55.080Z",
-            "modified": "2026-08-05T14:32:46.561Z",
+            "modified": "2026-08-05T21:34:50.442Z",
             "x_mitre_contents": [
                 {
                     "object_ref": "attack-pattern--00290ac5-551e-44aa-bbd8-c4b913488a6d",
@@ -2606,6 +2606,10 @@
                     "object_modified": "2026-04-29T14:23:05.955Z"
                 },
                 {
+                    "object_ref": "relationship--24bcb2cd-1532-4e98-a485-a55e06d2577d",
+                    "object_modified": "2026-04-29T14:23:05.955Z"
+                },
+                {
                     "object_ref": "relationship--24db9a56-c868-43b7-a20c-99c6ff60ba62",
                     "object_modified": "2025-10-21T15:10:28.402Z"
                 },
@@ -3115,6 +3119,10 @@
                 },
                 {
                     "object_ref": "relationship--3644d1dd-8d9f-4a89-a618-c6b22c2a1a96",
+                    "object_modified": "2026-04-29T14:23:05.994Z"
+                },
+                {
+                    "object_ref": "relationship--3680408d-e56e-4d68-a74d-2678093ed53f",
                     "object_modified": "2026-04-29T14:23:05.994Z"
                 },
                 {
@@ -5110,6 +5118,10 @@
                     "object_modified": "2026-04-29T14:23:06.092Z"
                 },
                 {
+                    "object_ref": "relationship--79cfdbac-3e7c-4d47-a85b-b735061b215a",
+                    "object_modified": "2026-04-29T14:23:06.092Z"
+                },
+                {
                     "object_ref": "relationship--79ef0025-3e1c-4914-9873-19808c2a5bec",
                     "object_modified": "2026-04-29T14:23:06.092Z"
                 },
@@ -6526,6 +6538,10 @@
                     "object_modified": "2026-04-29T14:23:06.158Z"
                 },
                 {
+                    "object_ref": "relationship--ab7cd212-7faa-46a8-9666-92a67ae7a6b0",
+                    "object_modified": "2026-04-29T14:23:06.158Z"
+                },
+                {
                     "object_ref": "relationship--abbbe5ea-f96e-42ad-bfbb-6dbbd66fea55",
                     "object_modified": "2026-04-29T14:23:06.159Z"
                 },
@@ -7236,6 +7252,10 @@
                 {
                     "object_ref": "relationship--c374c9ce-ff30-4daa-bdec-8015a507746a",
                     "object_modified": "2026-04-29T14:23:06.192Z"
+                },
+                {
+                    "object_ref": "relationship--c3c2bf20-fa33-4af4-92ec-d60679e1d4ee",
+                    "object_modified": "2026-04-29T14:23:06.193Z"
                 },
                 {
                     "object_ref": "relationship--c3e1aa57-a721-488f-8ac7-4fcb0f987153",
@@ -104373,6 +104393,96 @@
             "relationship_type": "detects",
             "source_ref": "x-mitre-detection-strategy--c6c7da3e-4366-473e-af4e-3cc67d8ea1fa",
             "target_ref": "attack-pattern--fd339382-bfec-4bf0-8d47-1caedc9e7e57",
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_deprecated": false,
+            "x_mitre_attack_spec_version": "3.3.0"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--24bcb2cd-1532-4e98-a485-a55e06d2577d",
+            "created": "2018-10-17T00:14:20.652Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "revoked": false,
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ],
+            "modified": "2026-04-29T14:23:05.955Z",
+            "relationship_type": "revoked-by",
+            "source_ref": "attack-pattern--6b846ad0-cc20-4db6-aa34-91561397c5e2",
+            "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_deprecated": false,
+            "x_mitre_attack_spec_version": "3.3.0"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--3680408d-e56e-4d68-a74d-2678093ed53f",
+            "created": "2018-04-18T17:59:24.739Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "revoked": false,
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ],
+            "modified": "2026-04-29T14:23:05.994Z",
+            "relationship_type": "revoked-by",
+            "source_ref": "intrusion-set--9559ecaf-2e75-48a7-aee8-9974020bc772",
+            "target_ref": "intrusion-set--17862c7d-9e60-48a0-b48e-da4dc4c3f6b0",
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_deprecated": false,
+            "x_mitre_attack_spec_version": "3.3.0"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--79cfdbac-3e7c-4d47-a85b-b735061b215a",
+            "created": "2021-10-07T12:21:31.535Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "revoked": false,
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ],
+            "modified": "2026-04-29T14:23:06.092Z",
+            "relationship_type": "revoked-by",
+            "source_ref": "intrusion-set--7a0d4c09-dfe7-4fa2-965a-1a0e42fedd70",
+            "target_ref": "intrusion-set--0ec2f388-bf0f-4b5c-97b1-fc736d26c25f",
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_deprecated": false,
+            "x_mitre_attack_spec_version": "3.3.0"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--ab7cd212-7faa-46a8-9666-92a67ae7a6b0",
+            "created": "2018-10-17T00:14:20.652Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "revoked": false,
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ],
+            "modified": "2026-04-29T14:23:06.158Z",
+            "relationship_type": "revoked-by",
+            "source_ref": "attack-pattern--51aedbd6-2837-4d15-aeb0-cb09f2bf22ac",
+            "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_deprecated": false,
+            "x_mitre_attack_spec_version": "3.3.0"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--c3c2bf20-fa33-4af4-92ec-d60679e1d4ee",
+            "created": "2018-10-17T00:14:20.652Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "revoked": false,
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ],
+            "modified": "2026-04-29T14:23:06.193Z",
+            "relationship_type": "revoked-by",
+            "source_ref": "attack-pattern--1f96d624-8409-4472-ad8a-30618ee6b2e2",
+            "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
             "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "x_mitre_deprecated": false,
             "x_mitre_attack_spec_version": "3.3.0"
