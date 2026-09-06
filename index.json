@@ -11,17 +11,17 @@
             "versions": [
                 {
                     "version": "19.2",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-19.2.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-19.2.json",
                     "modified": "2026-08-05T21:33:58.496Z"
                 },
                 {
                     "version": "19.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-19.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-19.1.json",
                     "modified": "2026-05-12T14:00:00.188Z"
                 },
                 {
                     "version": "19.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-19.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/enterprise-attack/enterprise-attack-19.0.json",
                     "modified": "2026-04-28T14:00:00.188Z"
                 },
                 {
@@ -224,17 +224,17 @@
             "versions": [
                 {
                     "version": "19.2",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-19.2.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/mobile-attack/mobile-attack-19.2.json",
                     "modified": "2026-08-05T21:34:50.442Z"
                 },
                 {
                     "version": "19.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-19.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/mobile-attack/mobile-attack-19.1.json",
                     "modified": "2026-05-12T14:00:00.188Z"
                 },
                 {
                     "version": "19.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-19.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/mobile-attack/mobile-attack-19.0.json",
                     "modified": "2026-04-28T14:00:00.188Z"
                 },
                 {
@@ -437,17 +437,17 @@
             "versions": [
                 {
                     "version": "19.2",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-19.2.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/ics-attack/ics-attack-19.2.json",
                     "modified": "2026-08-05T21:34:28.409Z"
                 },
                 {
                     "version": "19.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-19.1.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/ics-attack/ics-attack-19.1.json",
                     "modified": "2026-05-12T14:00:00.188Z"
                 },
                 {
                     "version": "19.0",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-19.0.json",
+                    "url": "https://raw.githubusercontent.com/mbpmohsen/attack-stix-data-persian/master/ics-attack/ics-attack-19.0.json",
                     "modified": "2026-04-28T14:00:00.188Z"
                 },
                 {
