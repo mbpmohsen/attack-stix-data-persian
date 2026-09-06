@@ -236,3 +236,14 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,python,visualstudiocode
+
+# Persian translation cache (translate-attack-fa.py)
+.translation-cache.sqlite
+.translation-cache.sqlite-*
+*.json.tmp
+
+# Credentials — never commit (see review note)
+*-j4-*.json
+*service-account*.json
+/key
+.translate-attack-fa.lock
